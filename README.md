@@ -4,7 +4,7 @@
 
 ### About Me 📝
 
-Currently a student at Universitas Ciputra majoring in Informatics. I am a passionate **Full-stack Developer** and **UI/UX Designer** with a keen eye for creating functional, problem-solving digital products. I enjoy the entire process of App Development, from designing user-centric interfaces to deploying scalable infrastructure.
+Currently a student at Universitas Ciputra Makassar majoring in Informatics. I am a passionate **Full-stack Developer** and **UI/UX Designer** with a keen eye for creating functional, problem-solving digital products. I enjoy the entire process of App Development, from designing user-centric interfaces to deploying scalable infrastructure.
 
 * 💻 Constantly building web applications and exploring the best practices in software engineering.
 * 🎨 Focusing on user perspective to create intuitive and seamless digital experiences.
@@ -48,7 +48,7 @@ Currently a student at Universitas Ciputra majoring in Informatics. I am a passi
 
 Here's a summary of my key projects, showcasing my journey through software development from UI/UX conceptualization to full-stack application development.
 
-* **TemanZiro**
+* **PeduliPanti**
   A mobile web application designed to help users find activity partners or "companions". I focused on building complex UI layouts, including custom date pickers and scrollable time selections, ensuring a smooth and functional user experience.
   
   *Key Technologies: React.js, Vite, TypeScript, CSS Modules*
