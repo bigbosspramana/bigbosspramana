@@ -1,7 +1,7 @@
 # Hi, I'm Alvin Yuga Pramana 👋 👨‍💻
 
 <p align="center">
-  <img src="Banner Github.png" alt="Banner" width="100%">
+  <img src="Banner Github1.png" alt="Banner" width="100%">
 </p>
 
 ### About Me 📝
