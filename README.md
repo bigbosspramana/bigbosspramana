@@ -1,6 +1,6 @@
 # Hi, I'm Alvin Yuga Pramana 👋 👨‍💻
 
-![Banner](https://via.placeholder.com/1000x250.png?text=Your+Banner+Image+Here)
+![Banner](Banner Github.png)
 
 ### About Me 📝
 
